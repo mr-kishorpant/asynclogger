@@ -1,2 +1,0 @@
-# asynclogger
-Async Logging Sytem
